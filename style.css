@@ -1,0 +1,9 @@
+/* Custom styles */
+
+body {
+  font-family: 'Inter', sans-serif;
+  /* background: linear-gradient(to bottom, #f7fafc, #ffffff); Remove previous gradient */
+  /* min-height: 100vh; Remove previous min-height */
+}
+
+/* Add any other specific styles if needed based on the React component's appearance */ 
